@@ -52,15 +52,8 @@ Real-time cryptocurrency data updates using **CoinGecko API** and **Django Chann
 ## 🤝 **Connect With Me**
 - **LinkedIn:** [Moataz Fawzy](https://www.linkedin.com/in/moataz-fawzy-backend)  
 - **Instagram:** [@mezo_5102](https://www.instagram.com/mezo_5102)  
-- **GitHub:** [Moataz0000](https://github.com/Moataz0000)  
-- **WhatsApp:** [+201001690789](https://wa.me/201001690789)  
+- **X:** [Mezo](https://x.com/Mezo0345)  
+=
 
----
-
-## 🌟 **Support My Work**
-If you find my projects or tutorials helpful, consider supporting me:  
-[Buy Me a Coffee](https://www.buymeacoffee.com) ☕
-
----
 
 Thank you for visiting my profile! 😊
