@@ -9,6 +9,8 @@ I have over 4 years of experience in back-end development, specializing in creat
 ## 🤝 **Connect With Me**
 - **LinkedIn:** [Moataz Fawzy](https://www.linkedin.com/in/moataz-fawzy-backend)  
 - **Instagram:** [@mezo_5102](https://www.instagram.com/mezo_5102)  
-- **X:** [Mezo](https://x.com/Mezo0345)  
+- **X:** [Mezo](https://x.com/Mezo0345)
+- **YouTube:** [Mezo](https://youtube.com/@codewithmezo)  
+
 
 
