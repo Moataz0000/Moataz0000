@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About Me
 I'm Moataz Fawzy,
-With over 4 years of full-stack web development experience, I specialize in creating robust and scalable web applications. My skills include API development, bug fixing, and API integration. I'm passionate about delivering high-quality solutions to help you achieve your project goal
+I have over 4 years of full-stack web development experience, I specialize in creating robust and scalable web applications. My skills include API development, bug fixing, and API integration. I'm passionate about delivering high-quality solutions to help you achieve your project goal
 
 ---
 
