@@ -8,7 +8,7 @@ I have over 4 years of experience in back-end development with Python (Django), 
 
 ## 🤝 **Connect With Me**
 - **LinkedIn:** [Moataz Fawzy](https://www.linkedin.com/in/moataz-fawzy-backend)  
-- **Instagram:** [@mezo_5102](https://www.instagram.com/mezo_5102)  
+- **Instagram:** [@mezo_dev](https://www.instagram.com/mezo_dev/)  
 - **X:** [Mezo](https://x.com/Mezo0345)
 - **YouTube:** [Code With Mezo](https://youtube.com/@codewithmezo)  
 
