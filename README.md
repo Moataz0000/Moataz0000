@@ -2,6 +2,7 @@
 
 ## 🧑‍💻 Summary  
 I’m a Back-End Developer with over 3 years of experience specializing in Python and Django. I excel in building scalable web applications, designing system architectures, developing APIs, and ensuring seamless integrations. I’m committed to delivering professional, high-quality solutions to meet the project needs.
+
 ---
 
 
