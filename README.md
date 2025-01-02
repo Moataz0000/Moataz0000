@@ -13,4 +13,6 @@ I enjoy tackling complex challenges, optimizing code for performance, and contin
 - **X (formerly Twitter):** [@Mezo0345](https://x.com/Mezo0345)  
 - **YouTube:** [Code With Mezo](https://youtube.com/@codewithmezo)
 
-Feel free to reach out if you want to collaborate, share knowledge, or just chat about technology!
+---
+
+
