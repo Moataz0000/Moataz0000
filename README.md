@@ -9,7 +9,6 @@ I enjoy tackling complex challenges, optimizing code for performance, and contin
 
 ## 🤝 **Let’s Connect**
 - **LinkedIn:** [Moataz Fawzy](https://www.linkedin.com/in/moataz-fawzy-backend)  
-- **Instagram:** [@mezo_dev](https://www.instagram.com/mezo_dev/)  
 - **X (formerly Twitter):** [@Mezo0345](https://x.com/Mezo0345)  
 - **YouTube:** [Code With Mezo](https://youtube.com/@codewithmezo)
 
