@@ -10,17 +10,17 @@ I enjoy tackling complex challenges, optimizing code for performance, and contin
   <table width="100%" align="center" border="0">
     <tr>
       <td align="left" width="33.5%">
-        <a href="https://codeforces.com/profile/Mezo12" target="blank">
+        <a href="https://codeforces.com/profile/Mezo12" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Moataz Fawzy" height="50" width="50" />
         </a>
       </td>
       <td align="right" width="33.5%">
-        <a href="https://www.linkedin.com/in/moataz-fawzy-backend" target="blank">
+        <a href="https://www.linkedin.com/in/moataz-fawzy-backend" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Moataz Fawzy" height="30" width="40" />
         </a>
       </td>
        <td align="right" width="33.5%">
-        <a href="https://www.linkedin.com/in/moataz-fawzy-backend" target="blank">
+        <a href="https://www.linkedin.com/in/moataz-fawzy-backend" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Moataz Fawzy" height="30" width="40" />
         </a>
       </td>
