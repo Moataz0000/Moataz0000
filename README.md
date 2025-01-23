@@ -11,7 +11,7 @@ I enjoy tackling complex challenges, optimizing code for performance, and contin
     <tr>
       <td align="left" width="33.5%">
         <a href="https://codeforces.com/profile/Mezo12" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Moataz Fawzy" height="50" width="50" />
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Mezo12" height="50" width="50" />
         </a>
       </td>
       <td align="right" width="33.5%">
@@ -20,8 +20,8 @@ I enjoy tackling complex challenges, optimizing code for performance, and contin
         </a>
       </td>
        <td align="right" width="33.5%">
-        <a href="https://www.linkedin.com/in/moataz-fawzy-backend" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Moataz Fawzy" height="30" width="40" />
+        <a href="https://www.youtube.com/@codewithmezo" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Code With Mezo" height="30" width="40" />
         </a>
       </td>
     </tr>
