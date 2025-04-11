@@ -10,11 +10,6 @@ My Django Packages:
 <p align="center">
   <table width="100%" align="center" border="0">
     <tr>
-      <td align="left" width="33.5%">
-        <a href="https://codeforces.com/profile/Mezo12" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Mezo12" height="50" width="50" />
-        </a>
-      </td>
       <td align="right" width="33.5%">
         <a href="https://www.linkedin.com/in/moataz-fawzy-backend" target="_blank">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Moataz Fawzy" height="30" width="40" />
