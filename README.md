@@ -4,6 +4,7 @@ I am a Back-End Engineer with over 2 years of experience, specializing in Python
 
 My Django Packages:
 - https://pypi.org/project/django-layered-start/
+- https://github.com/Moataz0000/django_fakegen
 - https://pypi.org/project/restquest/
 - https://pypi.org/project/Django-GCC-PhoneNumbers/
 - https://pypi.org/project/egyptian-phone-validator/
