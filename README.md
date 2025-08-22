@@ -29,9 +29,6 @@ My Django Packages:
       </td>
   </td>
 
-      
-
-    </tr>
   </table>
 </p>
 
