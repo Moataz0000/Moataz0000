@@ -22,11 +22,11 @@ My Django Packages:
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="BitWize" height="30" width="40" />
         </a>
       </td>
-
-    <td align="right" width="33.5%">
+             <td align="right" width="33.5%">
          <a href="https://codeforces.com/profile/Mezo12" target="_blank" aria-label="Codeforces">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="40" />
-     </a>
+        </a>
+      </td>
   </td>
 
       
