@@ -18,8 +18,8 @@ My Django Packages:
         </a>
       </td>
        <td align="right" width="33.5%">
-        <a href="https://www.youtube.com/@bitwize-backend" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="BitWize" height="30" width="40" />
+        <a href="https://moataz0000.github.io/Moataz-Fawzy" target="_blank">
+  <img src="https://www.svgrepo.com/download/2730/portfolio.svg" alt="Portfolio" width="40" height="40" />
         </a>
       </td>
              <td align="right" width="33.5%">
