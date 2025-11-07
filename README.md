@@ -1,37 +1,9 @@
-# 👋 Hi, I'm Moataz  
 
-I am a Back-End Engineer with over 2 years of experience, specializing in Python (Django & DRF) and FastAPI. I have a passion for building scalable and efficient web applications, designing robust system architectures, and developing RESTful APIs. My expertise lies in integrating diverse technologies to create seamless user experiences and high-performance solutions. I am dedicated to delivering top-tier solutions that meet business goals and exceed client expectations.
-
-My Django Packages:
-- https://pypi.org/project/django-layered-start/
-- https://github.com/Moataz0000/django_fakegen
-- https://pypi.org/project/restquest/
-- https://pypi.org/project/Django-GCC-PhoneNumbers/
-- https://pypi.org/project/egyptian-phone-validator/
----
-<p align="center">
-  <table width="100%" align="center" border="0">
-    <tr>
-      <td align="right" width="33.5%">
-        <a href="https://www.linkedin.com/in/moataz-fawzy-backend" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Moataz Fawzy" height="30" width="40" />
-        </a>
-      </td>
-       <td align="right" width="33.5%">
-        <a href="https://moataz0000.github.io/Moataz-Fawzy" target="_blank">
-  <img src="https://www.svgrepo.com/download/2730/portfolio.svg" alt="Portfolio" width="40" height="40" />
-        </a>
-      </td>
-             <td align="right" width="33.5%">
-         <a href="https://codeforces.com/profile/Mezo12" target="_blank" aria-label="Codeforces">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="40" height="40" />
-        </a>
-      </td>
-  </td>
-
-  </table>
-</p>
-
+<div style="width: 100%;">
+  <a href="https://abjt.dev">
+    <img src="title.svg" style="width: 100%;" alt="engaging experiences for the internet">
+  </a>
+</div>
 
 
 
