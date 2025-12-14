@@ -10,4 +10,4 @@ I'm Backend Engineer with 2+ years of experience designing and developing scalab
 <hr>
 
 ### 🧠 Codeforces Profile  
-[![Codeforces](https://img.shields.io/badge/Codeforces-Moataz-blue?logo=codeforces)](https://codeforces.com/profile/Mezo12)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Mezo-blue?logo=codeforces)](https://codeforces.com/profile/Mezo12)
