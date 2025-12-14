@@ -9,11 +9,5 @@ I'm Backend Engineer with 2+ years of experience designing and developing scalab
 
 <hr>
 
-### 🧠 Competitive Programming  
-#### Codeforces Profile  
+### 🧠 Codeforces Profile  
 [![Codeforces](https://img.shields.io/badge/Codeforces-Moataz-blue?logo=codeforces)](https://codeforces.com/profile/Mezo12)
-
-#### Recent Activity  
-- 🏆 Solving problems on Codeforces to sharpen algorithms & data structures  
-- 💡 Interested in optimization, graph problems, and DP  
-- 🚀 Practicing regularly to improve rating and consistency  
